@@ -1,0 +1,2 @@
+This is the text which is being extracted from input.txt The avocado 🥑 is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content 😄 . 
+Dated 1699299482897
